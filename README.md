@@ -2,6 +2,16 @@
 
 The existing public website has been recovered as editable HTML, CSS, JavaScript, images and fonts, with an Express server for hosting and replacement contact/newsletter email endpoints. Arabic is the default language. The original English version is available at `/en/`.
 
+## Owner review preview
+
+Public preview: https://khd84.github.io/rmfal/
+
+Source repository: https://github.com/khd84/rmfal
+
+GitHub Pages serves the generated `gh-pages` branch. This is a static review copy: forms display a preview-only message and do not send data. The Node.js version on `main` is the full Hostinger deployment. The preview requests no search indexing; it remains publicly accessible to anyone with the URL.
+
+To update the preview, run `node scripts/preview.mjs` and publish the contents of `dist/pages/` to `gh-pages`. The script applies the `/rmfal/` URL prefix without changing the production files.
+
 ## Run locally
 
 Install Node.js 22 or 24, then:
