@@ -1,0 +1,26 @@
+/* Preserve the original design; resolve mobile overflow and improve access. */
+html { scroll-behavior: smooth; }
+body { overflow-x: clip; }
+img, iframe { max-width: 100%; }
+.form-trap { position:absolute !important; left:0 !important; width:1px !important; min-width:0 !important; height:1px !important; padding:0 !important; margin:0 !important; border:0 !important; opacity:0; pointer-events:none; }
+.form-status { margin-top:16px; line-height:1.8; color:inherit; }
+.form-status:empty { display:none; }
+button:disabled { opacity:.65; cursor:wait; }
+a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible,[role=button]:focus-visible { outline:3px solid #d6a25f; outline-offset:4px; }
+input[type=email],input[type=tel] { direction:ltr; }
+.contact-map-three iframe { width:100%; }
+@media(max-width:767px) {
+  .site-logo a img { max-width:min(53vw,263px); }
+  .banner-section-three .banner-content h1 { font-size:clamp(32px,8vw,52px) !important; line-height:1.5 !important; }
+  .banner-section-three .banner-content p { font-size:20px !important; }
+  .page-title-area .title { font-size:clamp(27px,7vw,44px); overflow-wrap:anywhere; }
+  .section-title h2 { font-size:clamp(26px,7vw,38px); }
+  .contact-info-item p { overflow-wrap:anywhere; }
+  .header-navigation .nav-toggler { flex-shrink:0; }
+  .header-navigation.breakpoint-on .site-nav-menu .primary-menu li a { color:#fff; }
+  .contact-map-two { overflow:hidden; }
+}
+@media(prefers-reduced-motion:reduce) {
+  html { scroll-behavior:auto; }
+  *,*::before,*::after { animation-duration:.01ms !important; transition-duration:.01ms !important; }
+}
