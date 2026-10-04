@@ -1,0 +1,383 @@
+
+.header-navigation .header-extra .my-dropdown .cart .icon span,
+.header-navigation .primary-menu .megamenu-item .megamenu .tabnav a.active, 
+.header-navigation .primary-menu .megamenu-item .megamenu .tabnav a:hover,
+.header-navigation .header-extra .my-dropdown .my-dropdown-menu .dropdownmenu-wrapper .dropdown-cart-products .product .product-image-container .cart-remove:hover,
+.quick_call_area a,
+.back-to-top a,
+.team-member-two .team-content,
+.features-sub .input-box button,
+.feature-intro-video .video-popup,
+.service-item-eight .services-overlay .icon,
+.blog-sidebar .widget .widget-title::before,
+.blog-sidebar .widget .widget-title::after,
+.blog-sidebar .widget.categories-widget ul li a.active, 
+.blog-sidebar .widget.categories-widget ul li a:hover,
+.blog-sidebar .side-bar-contact .overlay,
+.single-blog-grid .cat,
+.project-gallery .project-gallery-filter .project-gallery-menu .filter.active, 
+.project-gallery .project-gallery-filter .project-gallery-menu .filter:hover,
+.blog-sidebar .widget.search-widget form button,
+.blog-sidebar .widget.tags-widget ul a:hover,
+.widget-range-slider .price-range-slider .value,
+.widget-range-slider .price-range-slider .ui-state-default, .widget-range-slider .price-range-slider .ui-widget-content .ui-state-default, .widget-range-slider .price-range-slider .ui-widget-header .ui-state-default,
+.widget-range-slider .price-range-slider div.ui-slider-range.ui-widget-header,
+.product-item .product-thumb .product-overlay ul li a:hover,
+.product-item .product-thumb .product-overlay ul li button:hover,
+.header-navigation .primary-menu .megamenu-item .megamenu .product-item .product-thumb .product-overlay ul li a:hover,
+.header-navigation .primary-menu .megamenu-item .megamenu .product-item .product-thumb .product-overlay ul li button:hover,
+.product-summery .social-share a:hover,
+.checkout-area .g-title,
+.contact-info-items .contact-info-item i,
+.service-item-four .services-content .title::before,
+.intro-video-area .intro-thumb .video-popup,
+.call-to-action-four .cta-btns .cta-btn.cta-btn-2,
+.intro-video-area-two .video-popup,
+.banner-slider .slick-arrow:hover,
+.dashboard-inner .card,
+.user-dashboard-area .card .card-header
+{
+background: #D6A25F;
+}
+
+.header-navigation .primary-menu li .submenu li a:hover,
+.header-topbar .top-left-content .language-change .language-menu a:hover,
+.header-topbar .top-right-wrapper .language-change .language-menu a:hover,
+.main-btn,
+.feature-list li:hover::before,
+.tile-gallery-two .img-two::before,
+.service-item-four .services-content .service-link:hover,
+.service-item-four .services-content .service-link::before,
+.testimonial-box-two .testimonial-inner .testimonial-img i,
+.primary-bg,
+.service-item-three:hover,
+.team-member .member-photo .social-icon a:hover,
+.team-details-content ul a:hover,
+.conatct-section .conatct-one-bg::before,
+.service-section.service-with-shape::before,
+.portfolio-arrow-two .slick-arrow.next,
+.call-to-action-four::before,
+.main-btn.transparent-border-btn:hover,
+.main-btn.transparent-border-btn::before,
+.service-item:hover,
+.call-to-action::before,
+.header-navigation.breakpoint-on .site-nav-menu,
+::-webkit-scrollbar-thumb 
+{
+    background-color: #D6A25F; 
+}
+
+.tawk-button{
+    background:#D6A25F !important; 
+}
+
+
+.header-navigation .navbar-btn a:hover,
+.header-navigation .primary-menu .megamenu-item .megamenu .tabnav a.active, 
+.header-navigation .primary-menu .megamenu-item .megamenu .tabnav a:hover,
+.sticky-header.sticky-on .header-navigation:not(.breakpoint-on) .primary-menu > li.current > a, 
+.sticky-header.sticky-on .header-navigation:not(.breakpoint-on) .primary-menu > li.current > .dd-trigger, 
+.sticky-header.sticky-on .header-navigation:not(.breakpoint-on) .primary-menu > li a:hover, 
+.sticky-header.sticky-on .header-navigation:not(.breakpoint-on) .primary-menu > li a:hover ~ .dd-trigger,
+.header-navigation .primary-menu li.current > a, 
+.header-navigation .primary-menu li.current > .dd-trigger, 
+.header-navigation .primary-menu li a:hover, 
+.header-navigation .primary-menu li a:hover ~ .dd-trigger,
+ 
+.header-two .header-navigation .primary-menu li.current > .dd-trigger, 
+.header-two .header-navigation .primary-menu li a:hover, 
+.header-two .header-navigation .primary-menu li a:hover ~ .dd-trigger,
+.header-navigation.breakpoint-on .site-nav-menu .primary-menu li .submenu a:hover,
+.header-navigation.breakpoint-on .site-nav-menu .primary-menu li a:hover,
+.banner-slider.banner-slider-two .slick-arrow,
+.banner-slider.banner-slider-two .banner-text .main-btn,
+.section-title .title-tag,
+.feature-list li::before,
+.portfolio-item .portfolio-link,
+.testimonials-arrow .slick-arrow,
+.latest-news-box .post-content .post-meta a,
+.latest-news-box .post-content .read-more-btn:hover,
+.footer-area .widget-item-2 ul li a:hover,
+.service-item-three .icon,
+.about-history-area .history-item .history-content span,
+.blog-sidebar .side-bar-contact .content i,
+.blog-sidebar .case-live .case-live-item-area .case-live-item i,
+.pricing-plan-item .plan-name,
+.pricing-plan-item .plans-btn,
+.team-member .team-content .name a:hover,
+.team-member .member-photo .social-icon a,
+.page-link,
+.team-details-content span,
+.accordion-three .card .card-header a,
+.single-job a:hover,
+.single-job .title:hover,
+.single-job p i,
+.jobdetails-area .job_name,
+.widget-range-slider .price-range-slider .filter_price:hover,
+.product-item .product-content .price,
+.shop-top-bar .shop-search-form button,
+.product-summery .price,
+.cart-table table tbody tr td.product-name a:hover,
+.checkout-area .cart-product .add-shiping-methods table tbody tr td p span,
+.banner-slider.banner-slider-three .banner-text .main-btn,
+.video-cta .video-cta-play .video-popup,
+.portfolio-arrow-two .slick-arrow,
+.counter-box-three .counter-wrap,
+.accordion-one .card .card-header a,
+.about-text-block .about-experience h3,
+.intro-video-area .intro-video-content span,
+.team-member-three .position,
+.service-item-six .icon,
+.service-item-six .service-link:hover,
+.portfolio-item-two .portfolio-content .category,
+.portfolio-slider-three .slick-arrow,
+.section-title-two .title-tag,
+.counter-box-four .counter-wrap,
+.team-member-four .member-content .position,
+.service-item .icon,
+.portfolio-arrow .slick-arrow.next, .portfolio-arrow-two .slick-arrow.next,
+.main-btn.main-btn-3,
+.header-topbar .top-right-wrapper .language-change .name.login-btn:hover,
+.header-topbar .social-icon li a:hover,
+.user-dashboard-area .user-menu ul li a:hover, 
+.user-dashboard-area .user-menu ul li a.active,
+.progress-steps li.active .icon,
+.service-item-two.color-1 .icon,
+.counter-box-five .counter,
+.counter-box .counter,
+.conatct-section .contact-form-area .contact-form .input-group .icon,
+.gradint_body .footer-area .widget-item-3 .features-sub .input-box button
+{
+color: #D6A25F;
+}
+.why-choose-area .single-choose .icon-box{
+    border: 2px solid #D6A25F;
+    background: radial-gradient(circle, #D6A25F 0%, #D6A25F 50%, rgba(255, 255, 255, 0) 74%);
+}
+
+.main-btn::before{
+    background-color: #D6A25F;
+}
+
+.service-section.service-with-shape-two::before{
+    background-color: #D6A25F;
+}
+
+.payment-gateway .product_payment_gateway_check.active{
+    border-color: #D6A25F;
+}
+
+.header-navigation .navbar-btn a {
+    background-color: #D6A25F;
+    border: 2px solid #D6A25F;
+}
+
+ {
+    border-top: 2px solid #D6A25F;
+}
+
+
+.header-topbar .top-left-content .language-change .language-menu,
+.header-navigation .primary-menu .megamenu-item .megamenu,
+.header-topbar .top-right-wrapper .language-change .language-menu,
+.header-navigation .header-extra .my-dropdown .my-dropdown-menu,
+.header-navigation .primary-menu li .submenu
+{
+    border-top: 2px solid #D6A25F;
+}
+
+.service-item-four .services-content .service-link {
+    border: 3px solid #D6A25F;
+}
+.service-item-four .services-content .service-link:hover {
+    border-color: #D6A25F;
+}
+
+.testimonials-arrow .slick-arrow.next {
+    background-color: #D6A25F;
+    border-color: #D6A25F;
+}
+
+.header-navigation .primary-menu .megamenu-item .megamenu .tabnav a.active, 
+.header-navigation .primary-menu .megamenu-item .megamenu .tabnav a:hover{
+    background: none;
+}
+
+.about-thumb::before,
+.main-btn.transparent-border-btn:hover
+{
+    border-color: #D6A25F;
+}
+
+.service-item-eight:hover .services-overlay {
+    background-color: #D6A25Fe6;
+}
+
+.blog-sidebar .case-live .case-live-btn a,
+.pricing-plan-item:hover .plans-btn
+{
+    background: #D6A25F;
+    border-color: #D6A25F;
+}
+.page-item.active .page-link {
+    background-color: #D6A25F;
+    border-color: #D6A25F;
+}
+
+.project-gallery .project-gallery-filter .project-gallery-menu .filter {
+    border: 2px solid #D6A25F;
+    color: #D6A25F;
+}
+.project-gallery .project-gallery-item .gallery-item .item-thumbnail .content-overlay .content .links a:hover {
+    background: #D6A25F;
+    border-color: #D6A25F;
+}
+.widget-range-slider .price-range-slider .value:after {
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 7px solid #D6A25F;
+}
+
+.widget-range-slider .price-range-slider .filter_price {
+    background: #D6A25F;
+    border: 2px solid #D6A25F;
+}
+
+.widget-check-rating .check-area .form-group label::before {
+    border: 1px solid #D6A25F;
+}
+.widget-check-rating .check-area .form-group input:checked ~ label::before {
+    background: #D6A25F;
+    border: 1px solid #D6A25F;
+}
+
+.product-details-tab .nav .nav-item a.active, .product-details-tab .nav .nav-item a:hover {
+    background-color: #D6A25F;
+    border-color: #D6A25F;
+}
+td.product-remove a{
+    color : #D6A25F;
+}
+
+.banner-slider.banner-slider-three .single-banner::before {
+    background-image: linear-gradient(90deg, #D6A25F 0%, #D6A25F99 50%, rgb(25 14 14 / 56%) 100%);
+}
+
+.testimonial-box p {
+    border-top: 3px solid #D6A25F;
+}
+
+.about-text-block .about-experience h3::before {
+    border-top: 30px solid #D6A25F;
+    border-right: 30px solid transparent;
+}
+
+.intro-video-area .intro-thumb .video-popup::before {
+    border: 1px solid #D6A25F;
+}
+.intro-video-area .intro-thumb .video-popup::after {
+    border: 1px solid #D6A25F;
+}
+
+.intro-video-area .intro-thumb::before {
+    border-bottom: 400px solid #D6A25F;
+    border-left: 400px solid transparent;
+}
+.contact-map-two::before{
+    border-bottom: 400px solid #D6A25F;
+    border-left: 400px solid transparent;
+}
+.banner-slider .slick-arrow {
+    background: #D6A25F80;
+}
+.portfolio-arrow .slick-arrow, .portfolio-arrow-two .slick-arrow {
+    border: 2px solid #D6A25F;
+}
+.team-member-four .member-photo::before {
+    border-left: 5px solid #D6A25F;
+    border-bottom: 5px solid #D6A25F;
+}
+
+.portfolio-area.portfolio-area-shape .portfolio-arrow .slick-arrow.next,
+.portfolio-area.portfolio-area-shape .portfolio-arrow-two .slick-arrow.next,
+.banner-slider .slick-arrow
+{
+    color: #D6A25F !important;
+}
+
+.gradint_body .footer-area .widget-item-3 .features-sub .input-box button:hover{
+    color: #fff
+}
+
+
+
+
+.gradint_body .header-navigation .navbar-btn a,
+.gradint_body .project-gallery .project-gallery-filter .project-gallery-menu .filter.active,
+.gradint_body .project-gallery .project-gallery-filter .project-gallery-menu .filter:hover, 
+.gradint_body .blog-sidebar .widget.search-widget form button, .gradint_body .main-btn,
+.gradint_body .header-navigation .primary-menu li .submenu li a:hover, 
+.gradint_body .widget-range-slider .price-range-slider .value, 
+.gradint_body .widget-range-slider .price-range-slider .ui-slider-horizontal .ui-slider-handle,
+.gradint_body .widget-range-slider .price-range-slider .filter_price,
+.gradint_body .page-item.active .page-link, 
+.gradint_body .product-summery .social-share a:hover, 
+.gradint_body .checkout-area .g-title, 
+.gradint_body .back-to-top a,
+.gradint_body .product-details-tab .nav .nav-item a.active, 
+.gradint_body .product-details-tab .nav .nav-item a:hover,
+.gradint_body .dashboard-inner .card,
+.gradint_body .user-dashboard-area .card .card-header,
+.gradint_body .conatct-section .conatct-one-bg::before, 
+.gradint_body .header-topbar .top-left-content .language-change .language-menu a:hover, 
+.gradint_body .header-topbar .top-right-wrapper .language-change .language-menu a:hover, 
+.gradint_body .team-member .member-photo .social-icon a:hover,
+.gradint_body .video .video-wrapper .video-box::before,
+.gradint_body .service-item-six,
+.gradint_body .portfolio-area .portfolio-item::before,
+.gradint_body .testimonials-section .testimonial-box,
+.gradint_body .team .team-member .member-data,
+.gradint_body .team .team-member .social,
+.gradint_body .latest-news-box .post-content,
+.gradint_body .footer-area::before,
+.gradint_body .about-thumb::after,
+.gradint_body .service-item-three:hover,
+.gradint_body .feature-list li:hover::before,
+.gradint_body .about-history-area .history-item .history-content,
+.gradint_body .service-item-eight .services-overlay .icon,
+.gradint_body .blog-sidebar .widget.categories-widget ul li a.active, 
+.gradint_body .blog-sidebar .widget.categories-widget ul li a:hover,
+.gradint_body .blog-sidebar .side-bar-contact .overlay,
+.gradint_body .single-blog-grid .cat,
+.gradint_body .blog-sidebar .case-live .case-live-btn a, 
+.gradint_body .pricing-plan-item:hover .plans-btn,
+.gradint_body .team-member .team-content, 
+.gradint_body .team-details-content ul a:hover,
+.blog-sidebar .widget.tags-widget ul a:hover,
+.gradint_body .page-item.active .page-link, 
+.gradint_body .product-summery .social-share a:hover, 
+.gradint_body .checkout-area .g-title, 
+.gradint_body .contact-info-items .contact-info-item i,
+.gradint-slider::before,
+.gradint_body .video-section-new .intro-thumb::before,
+.gradint_body .call-to-action::before,
+.gradint_body .header-navigation.breakpoint-on .site-nav-menu
+{
+    background-image: -webkit-linear-gradient(to bottom, #000000, #B08420 );
+    background-image: -moz-linear-gradient(to bottom, #000000, #B08420 );
+    background-image: -ms-linear-gradient(to bottom, #000000, #B08420);
+    background-image: linear-gradient(to bottom, #000000, #B08420);
+}
+
+.gradint_body .about .info .info-title span {
+    background-image: -webkit-linear-gradient(to bottom, #000000, #B08420);
+    background-image: -moz-linear-gradient(to bottom, #000000, #B08420);
+    background-image: -ms-linear-gradient(to bottom, #000000, #B08420);
+    background-image: linear-gradient(to bottom, #000000, #B08420);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.footer-overlay .widget-item-1 img{
+    max-width:270px;
+}
